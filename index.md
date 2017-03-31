@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# history of visualization / visualization in history
+## April 8, 2017
 
-You can use the [editor on GitHub](https://github.com/matthewljones/vizhist.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## workshop
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This workshop brings together historians, sociologists and anthropologists studying practices of data visualization with historians and social scientists using many of those practices in the pursuit of history. The goal is a more reflective critical practice of visualizations within the social sciences and a less anachronistic technical history of data visualization practices, by bringing together the methodological sophistication of science and technology studies, digitial humanities, and media theory.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## [Studio@Butler](https://studio.cul.columbia.edu/) 
+with the support of the Sloan Foundation, the Center for Science and Society, and the Leibniz Fund
 
-```markdown
-Syntax highlighted code block
+## Program
 
-# Header 1
-## Header 2
-### Header 3
+    8:45-9:00	    Introductions									
+    9:00-9:35	    Alex Compolo		  Perception and Processing: Cognitive Influences on Data Visualization							
+    9:40-10:15	  Alma Steingart		A Phenomenological Experiment: Rendering Topology with Computer Graphics							
+    10:20-10:30	  coffee break									
+    10:30-11:05 	Matthew Jones		  Visualizing data and augmenting cognition from John Tukey to ggplot2 							
+    11:10-11:45	  Ted Byfield		    Six Miles From Earth, Loosed From Its Dream of Life.							
+    12:00-1:00	  LUNCH at library									
+    1:00-1:35	    Lauren Klein	    Elizabeth Peabody’s *Chronological History*: Knowledge, Labor, Embodiment, and Design							
+    1:40-2:15	    Eamon Bell		    Seeing ear to ear: Mixed metaphors in musical data visualization							
+    2:20-2:55	    Aaron Plasek		  New Historical Knowledge: Using 21st C machine learning to gain 
+                                        new insight into early 1950s computing "trading zones" 							
+    3-3:10	      coffee break									
+    3:10-3:45	    Crystal Lee		    Lining Things Up: Mapping Time, Power, and Politics in Joseph Priestley’s *Chart of History*.						
+    3:50-4:25	    Ben Schmidt		    Drawing the frontier line at the US Census, 1870-1920							
+    4:30-5:20	    Scott Weingart		What Networks Argue: Visual Metaphors in History and Historiography	
 
-- Bulleted
-- List
+A workshop of the Big Data and Science Studies Cluster of the Center for Science and Society, Columbia.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/matthewljones/vizhist.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please direct all inquiries to Matthew Jones, mj340@columbia.edu.
